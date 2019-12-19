@@ -1,0 +1,3 @@
+* 26523 productos
+* Demora mucho
+* Varios no tienen el tag titulo(posiblemente por un cambio de formato en el HTML)
